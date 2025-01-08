@@ -61,10 +61,6 @@ Welcome to my GitHub profile! I'm a **Senior Full Stack Engineer** with over **5
 ![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshithaxkatakam&show_icons=true&theme=radical&include_all_commits=true&count_private=true) <br/>
 ![Harshitha's](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithaxkatakam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact)
 
-
-## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harshithaxkatakam&theme=onedark)](https://github.com/HarshithaKatakam)
-
 [![](https://visitcount.itsvg.in/api?id=harshithaxkatakam&icon=8&color=0)](https://visitcount.itsvg.in)
 
 Thanks for visiting my profile! Feel free to check out my repositories and leave a ⭐ if you find something interesting!
